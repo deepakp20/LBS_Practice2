@@ -1,4 +1,4 @@
-package Branch2;
+package Day2;
 
 public class program2 {
 public static double sqrt(int num, double guess) {
